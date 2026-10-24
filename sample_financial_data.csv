@@ -1,0 +1,29 @@
+Estado,Categoria,Cuenta,2022,2023,2024
+Balance General,Activo Corriente,Efectivo y Equivalentes,45000,38000,52000
+Balance General,Activo Corriente,Inversiones a Corto Plazo (ICP),0,0,0
+Balance General,Activo Corriente,Cuentas por Cobrar Comerciales,85000,110000,135000
+Balance General,Activo Corriente,Inventarios,95000,130000,155000
+Balance General,Activo Corriente,Otros Activos Corrientes,15000,17000,18000
+Balance General,Activo No Corriente,Propiedad Planta y Equipo Neto,320000,365000,410000
+Balance General,Activo No Corriente,Intangibles y Otros Activos LP,40000,40000,50000
+Balance General,Pasivo Corriente,Cuentas por Pagar Comerciales,65000,85000,105000
+Balance General,Pasivo Corriente,Deuda Financiera Corto Plazo,40000,50000,45000
+Balance General,Pasivo Corriente,Pasivos Laborales e Impuestos,25000,30000,35000
+Balance General,Pasivo No Corriente,Deuda Financiera Largo Plazo,180000,205000,235000
+Balance General,Pasivo No Corriente,Otros Pasivos Largo Plazo,20000,20000,25000
+Balance General,Patrimonio,Capital Social,150000,150000,150000
+Balance General,Patrimonio,Reservas Legales,30000,38000,48000
+Balance General,Patrimonio,Utilidades Retenidas,90000,122000,177000
+Estado de Resultados,Ingresos,Ingresos por Ventas,620000,740000,890000
+Estado de Resultados,Costos,Costo de Ventas,390000,460000,545000
+Estado de Resultados,Gastos Operativos,Gastos de Administracion y Ventas,110000,132000,155000
+Estado de Resultados,Gastos Operativos,Depreciacion y Amortizacion,28000,33000,38000
+Estado de Resultados,Gastos Financieros,Gastos Financieros (Intereses),22000,26000,29000
+Estado de Resultados,Otros,Otros Ingresos (Gastos) No Operacionales,0,1000,2000
+Estado de Resultados,Impuestos,Impuesto sobre la Renta,17500,22500,31250
+Datos Complementarios,Inversiones,Inversiones en Activo Fijo (CAPEX),45000,78000,83000
+Datos Complementarios,Operaciones,Compras del Periodo,390000,495000,570000
+Datos Complementarios,Flujos,Flujo de Efectivo Actividades Operativas (FEAO),80500,60500,101750
+Datos Complementarios,Financiamiento,Dividendos Pagados,15000,20000,25000
+Datos Complementarios,Parametros,Tasa Impositiva Efectiva (%),25.0,25.0,25.0
+Datos Complementarios,Normativa Bolivia,UFV Cierre de Gestion,2.40858,2.47895,2.54520
